@@ -1,4 +1,4 @@
-package com.manupgz.todo_lists;
+package com.manupgz.todo_lists_sources;
 
 import android.app.Activity;
 import android.os.Bundle;
